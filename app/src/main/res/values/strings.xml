@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_10_number_4</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
+    <string name="toolbar_title">Электронная книга</string>
+    <string name="toolbar_subtitle">Mod. 10 № 4</string>
+    <string name="downloadBT">Загрузить</string>
+    <string name="hintBodyEBookTV">Данные</string>
+    <string name="toast_reset">Данные очищены</string>
+    <string name="toast_exit">Приложение закрыто</string>
+</resources>
